@@ -1,9 +1,12 @@
- <div align="center">
+<div align="left">
 
 # Jhonathan Rowinski
 
 ### Desenvolvedor Full Stack
-**Angular · .NET · Node.js**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,nodejs,typescript,javascript,cs,react&theme=dark" />
+</p>
 
 Desenvolvedor Full Stack com mais de 5 anos de experiência atuando na criação, sustentação e evolução de aplicações web, mobile e APIs REST. Experiência em desenvolvimento Front-End e Back-End, arquitetura de aplicações, serviços em nuvem e gerenciamento de bancos de dados.
 
